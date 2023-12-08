@@ -1,5 +1,10 @@
 # ARIOT
 #Make the AR scene using the scene composer 
+#This project showcases an innovative Augmented Reality (AR) application developed using Xcode and the ARKit/RealityKit framework, designed to bring a unique and interactive dining experience to users. The application allows users to place a virtual dining table, complete with a variety of food items, into their real-world environment. Leveraging ARKit's/RealityKit's advanced capabilities, users can interact with the virtual table, explore food items in detail, and engage in a seamless blend of the physical and digital worlds.
+
+
+#To enhance realism, the app dynamically adjusts lighting and shadows based on the user's physical environment. Primarily shiny objects with picked textures such as "Gold/brass/copper/silver/steel/" or otherwise.
+
 #In this case, I made a table with a bagel and a watermelon on a table
 <img width="802" alt="Screen Shot 2023-12-08 at 5 59 37 PM" src="https://github.com/AchintyaBhavaraju/ARIOT/assets/64161730/30782743-8262-4ff0-bd2e-f6f302cdab96">
 <img width="802" alt="Screen Shot 2023-12-08 at 5 59 26 PM" src="https://github.com/AchintyaBhavaraju/ARIOT/assets/64161730/2e04e726-0d02-48c4-8a79-f1980e907d85">
