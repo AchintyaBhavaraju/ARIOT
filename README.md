@@ -1,7 +1,13 @@
 # ARIOT
+
+TEAM: 
+ACHINTYA BHAVARAJU (SE20UARI020)
+MIHIR RANJAN (SE20UARI095)
+
 #Make the AR scene using the scene composer 
 #This project showcases an innovative Augmented Reality (AR) application developed using Xcode and the ARKit/RealityKit framework, designed to bring a unique and interactive dining experience to users. The application allows users to place a virtual dining table, complete with a variety of food items, into their real-world environment. Leveraging ARKit's/RealityKit's advanced capabilities, users can interact with the virtual table, explore food items in detail, and engage in a seamless blend of the physical and digital worlds.
 
+USE CASE -  The possibilities of AR are endless, but in this case, we can use AR specifically for real estate and interior design. We can see the turnout of a building in a plot, or the furnishings of a house before even purchasing the furniture. This can help determine the amount of space occupied and the amount of space necessary given a specific area. It is very useful and can be easily implemented in the real-world.
 
 #To enhance realism, the app dynamically adjusts lighting and shadows based on the user's physical environment. Primarily shiny objects with picked textures such as "Gold/brass/copper/silver/steel/" or otherwise.
 
