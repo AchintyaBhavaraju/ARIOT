@@ -11,8 +11,8 @@
 <img width="802"![Simulator Screen Shot - iPhone 14 Pro Max - 2023-12-08 at 18 25 06](https://github.com/AchintyaBhavaraju/ARIOT/assets/64161730/cd9818b2-b6f5-4a46-a1d9-11808238d98d)
 
 #How the asset looks, and how it Augments on reality
-Uploading RPReplay_Final1702040372.mov…
-
-
-
 https://github.com/AchintyaBhavaraju/ARIOT/assets/64161730/c8347637-36b4-4313-8e3b-2599dbb7862b
+
+
+#2
+vid
